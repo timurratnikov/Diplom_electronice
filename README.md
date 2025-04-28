@@ -51,6 +51,7 @@ clusters_research.ipynb
 forecasting_sarimax.ipynb
 forecasting_prophet.ipynb
 forecasting_action_values.ipynb - 3.4 Построение моделей с учетом востребованности акций у потребителей
+forecasting_ml.ipynb - построение catboost моделей
 
 Категории
 Сделай сам - техника для ремонта, дачи, садовая техника, инструменты
@@ -64,6 +65,7 @@ forecasting_action_values.ipynb - 3.4 Построение моделей с у�
 	C учетом акции PROPHET MAPE 12.3%
 	Кластеризация на 7 + с учетом акций MAPE SARIMAX 16.7% и 26.6%
 	Кластеризация на 7 + с учетом акций MAPE PROPHET 11.3% и 23.6%
+ 	Catboost MAPE 18.5%
 
 Мелкая бытовая техника
 	Без регрессоров SARIMA MAPE 23.1%
@@ -72,9 +74,11 @@ forecasting_action_values.ipynb - 3.4 Построение моделей с у�
 	C учетом акции PROPHET MAPE 10.8%
 	Кластеризация на 7 + с учетом акций MAPE SARIMAX 32.1% и 26.7%
 	Кластеризация на 7 + с учетом акций MAPE PROPHET 12.8% и 20.3%
+ 	Catboost MAPE: 14.1%
 
 Крупная бытовая техника
 	Без регрессоров SARIMA MAPE 15.6%
 	Без регрессоров PROPHET MAPE 6.3%
 	C учетом акции SARIMAX MAPE 17.9%
 	Кластеризация на 7 + с учетом акций MAPE SARIMAX 20.1% и 21.2%
+ 	Catboost MAPE: 16.2%
