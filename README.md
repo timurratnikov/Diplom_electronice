@@ -12,7 +12,7 @@ clustering3.ipynb - кластеризация
 
 # Прогнозирование
 forecasting_prophet.ipynb - Прогнозирование спроса PROPHET
-forecasting_ml.ipynb - Прогнозирование спроса Catboost
+forecasting_ml1.ipynb - Прогнозирование спроса Catboost
 
 forecasting_cost.ipynb - Прогнозирование стоимости PROPHET
 forecasting_ml_cost.ipynb - Прогнозирование стоимости Catboost
